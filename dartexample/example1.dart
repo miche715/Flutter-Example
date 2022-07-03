@@ -70,3 +70,5 @@ int addNum(int x, int y)
 {
   return x + y;
 }
+
+int arrow(int x, int y, int z) => x + y + z;
